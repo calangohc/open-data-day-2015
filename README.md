@@ -22,7 +22,7 @@ sudo yum install python-devel python-setuptools python-pip nodejs npm git
 ### Agora o caminho é o mesmo para qualquer distribuição GNU/Linux
 ```bash
 sudo pip install ipython virtualenv virtualenvwrapper
-sudo npm install -g bower-cli grunt yo
+sudo npm install -g bower-cli grunt yo gulp
 ```
 
 A partir deste ponto, escolha uma das oficinas, siga as instruções indicadas e boa aventura!
